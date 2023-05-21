@@ -1,0 +1,15 @@
+E:\CSharpGB\Hw01\Task01\bin\Debug\net7.0\Task01.exe
+E:\CSharpGB\Hw01\Task01\bin\Debug\net7.0\Task01.deps.json
+E:\CSharpGB\Hw01\Task01\bin\Debug\net7.0\Task01.runtimeconfig.json
+E:\CSharpGB\Hw01\Task01\bin\Debug\net7.0\Task01.dll
+E:\CSharpGB\Hw01\Task01\bin\Debug\net7.0\Task01.pdb
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.csproj.AssemblyReference.cache
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.dll
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\refint\Task01.dll
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.pdb
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+E:\CSharpGB\Hw01\Task01\obj\Debug\net7.0\ref\Task01.dll
