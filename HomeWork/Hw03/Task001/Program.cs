@@ -40,4 +40,5 @@ string TruePolindrom(string arg1) //Проверяет строку, являе�
 string result = TryParseMethod(Console.ReadLine()); 
 result = LenghtArg(result);
 TruePolindrom(result);
+//123
 
