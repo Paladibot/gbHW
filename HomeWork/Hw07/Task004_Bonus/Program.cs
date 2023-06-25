@@ -45,7 +45,7 @@ void PrintMatrix(int[,] matrix)
 
 int DiagonalResult(int[,] matrix, int rows, int columns)
 {
-    Console.WriteLine("Сумма побочной диагонали:");
+    Console.WriteLine("Сумма диагонали:");
     int sum = 0;
     for (int i = rows - 1; i >= 0; --i)
     {
